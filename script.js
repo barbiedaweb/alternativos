@@ -9,20 +9,20 @@ const perguntas = [
         enunciado: "No âmbito social, você prefere:",
         alternativas: [
             {
-                texto: "Ter a oportunidade de ganhar uma grande quantidade de dinheiro, mas perder o contato com todos seus amigos.",
-                afirmacao: "Você ficou rico, mas nao vai ter ninguem para poder compartilhar sua conquista.",
+                texto: "Ganhar um milhão de reais, mas sua familia perder tudo do que tem.",
+                afirmacao: "Você ficou rico, mas sua familia ficou pobre e triste com você.",
             },
             {
-                texto: "Realizar seu maior sonho de morar em outro país, mas ficar 7 anos sem nenhum contato com sua família e amigos.",
-                afirmacao: "Você fez uma otima escolha, pois vai conhecer um novo lugar e depois vai poder ver sua familia novamente.",
+                texto: "Trabalhar apenas três dias por semana com o mesmo salario, mas teria que mudar para uma cidade que não conhece ninguem.",
+                afirmacao: "Você vai ficar solitario, mas vai ser rico e feliz sozinho .",
             }]
     },
     {
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "Ajudar a combater a poluição do oceano com uma nova tecnologia, mas ter uma extinção de animais marinhos",
-                afirmacao: "Você ajudou na poluição, mas não tem mais tantos animais marinhos",
+                texto: "Plantar uma arvore para cada pessoa no mundo, mas todos teriam que reduzir seu consumo de agua pela metade.",
+                afirmacao: "A população colaborou com isso :)",
             },
             {
                 texto: "Acabar com o uso de combustíveis fósseis, mas ver metade da população perdendo o emprego.",
@@ -34,8 +34,8 @@ const perguntas = [
     
         alternativas: [
             {
-               texto:"Ter uma tecnologia que diz qual a doença do paciente, mas ter metade da população perdendo seu emprego na saúde.",
-               afirmacao: "Você livrou pessoas do sofrimento e abriu novas oportunidades de emprego",
+               texto:"Criar uma tecnologia que melhorasse a produtividade no trabalho, mas isso levasse a uma maior dependência de dispositivos eletronicos.",
+               afirmacao: "Seu trabalho cresceu, mas muitos perderam emprego e sua interação pessoal",
             },
             {
                 texto: "Ganhar todo ano o celular do momento, mas ter todas suas informações vazadas.",
