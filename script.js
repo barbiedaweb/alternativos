@@ -38,8 +38,8 @@ const perguntas = [
                afirmacao: "Seu trabalho cresceu, mas muitos perderam emprego e sua interação pessoal",
             },
             {
-                texto: "Ganhar todo ano o celular do momento, mas ter todas suas informações vazadas.",
-                afirmacao: "Você tem um celular bom, mas não tem privacidade."
+                texto: "Criar um sistema de reconhecimento facial que aumentasse a segurança pública, mas isso resultasse em uma vigilancia constante e invasiva da privacidade das pessoas.",
+                afirmacao: "Você vai ter uma segurança boa, mas não tem privacidade."
             }]
     }
 
