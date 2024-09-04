@@ -22,11 +22,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Plantar uma arvore para cada pessoa no mundo, mas todos teriam que reduzir seu consumo de agua pela metade.",
-                afirmacao: "A população colaborou com isso :)",
+                afirmacao: "A população colaborou com isso :).",
             },
             {
                 texto: "Acabar com o uso de combustíveis fósseis, mas ver metade da população perdendo o emprego.",
-                afirmacao: "Você ajudou a acabar com o uso e as população encontrou novos empregos"
+                afirmacao: "Você ajudou a acabar com o uso e as população encontrou novos empregos."
             }]
         },
     {
@@ -35,7 +35,7 @@ const perguntas = [
         alternativas: [
             {
                texto:"Criar uma tecnologia que melhorasse a produtividade no trabalho, mas isso levasse a uma maior dependência de dispositivos eletronicos.",
-               afirmacao: "Seu trabalho cresceu, mas muitos perderam emprego e sua interação pessoal",
+               afirmacao: "Seu trabalho cresceu, mas muitos perderam emprego e sua interação pessoal.",
             },
             {
                 texto: "Criar um sistema de reconhecimento facial que aumentasse a segurança pública, mas isso resultasse em uma vigilancia constante e invasiva da privacidade das pessoas.",
